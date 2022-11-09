@@ -23,7 +23,7 @@
 - На практике связать модели ML с **бизнес-задачами**  
 - Применить знания по технике `Bootstrap` для оценки **прибыли** и **рисков**
 
-[Посмотреть проект](Predict_best_oil_production_region_v1.ipynb)
+[Посмотреть проект](Predict_best_oil_production_region.ipynb)
 
 ## Новые навыки
 
